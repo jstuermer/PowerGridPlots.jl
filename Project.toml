@@ -1,0 +1,13 @@
+name = "PowerGridPlots"
+uuid = "0495e04d-f432-4fb3-b399-6f3937b9b3ef"
+authors = ["Julian Stürmer"]
+version = "0.1.0"
+
+[compat]
+julia = "1.8.3"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
